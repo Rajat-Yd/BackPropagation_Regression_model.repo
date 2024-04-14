@@ -1,4 +1,4 @@
-# BackPropogation_Regression_model.repo
+# BackPropagation_Regression_model.repo
 A simple DL Model to calculate average salary Package based on students CGPA and Resume score.
 # What is BackPropagation ? :
 - Backpropagation is the essence of neural net training.
